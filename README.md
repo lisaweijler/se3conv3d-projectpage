@@ -1,6 +1,6 @@
 # SE3Conv3D
 
-This is the repository that contains source code for the [SE3Conv3D website](https://se3conv3D.github.io).
+This is the repository that contains source code for the [SE3Conv3D website](https://lisaweijler.github.io/se3conv3d-projectpage/).
 
 If you find SE3Conv3D useful for your work please cite:
 ```
